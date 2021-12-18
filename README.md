@@ -1,3 +1,3 @@
 # odin-recipes
 # MyFirstProject
-# ApplyingHTMLBasics 
+# ApplyingHTMLBasics
